@@ -1,9 +1,9 @@
-# PyStock - Programa de Gerenciamento de Estoque em Python
+# PyStock - Programa de Gerenciamento de Estoque em Python 🐍📦
 
-## Descrição
+## Descrição 📚
 O PyStock é um Programa de Gerenciamento de Estoque desenvolvido em Python, utilizando a biblioteca PySide6 para a criação da interface e o banco de dados SQLite3 para o armazenamento e gerenciamento dos dados. Este programa foi criado com o objetivo de oferecer um gerenciamento eficiente de estoque para empresas de diversos setores, incluindo varejo, atacado, manufatura e serviços. Seu propósito principal é auxiliar organizações na otimização dos níveis de estoque, previsão de demanda, controle de entrada e saída de produtos, redução de custos de armazenamento e melhoria da eficiência operacional.
 
-## Funcionalidades
+## Funcionalidades ⚙️
 
 - **Sistema de Login:** O PyStock possui um sistema de login que diferencia entre usuários comuns e administradores. Os administradores têm permissões adicionais para realizar ações específicas.
 
@@ -11,7 +11,7 @@ O PyStock é um Programa de Gerenciamento de Estoque desenvolvido em Python, uti
 
 - **Relatórios e Gráficos:** Oferece a criação de relatórios e gráficos em formato Excel, relacionando o estoque com as saídas de produtos. Isso fornece insights valiosos para a tomada de decisões estratégicas.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 👨‍💻
 
 - **Python:** Linguagem de programação principal.
 - **PySide6:** Biblioteca para a criação da interface gráfica.
