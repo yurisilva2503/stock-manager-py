@@ -9,7 +9,7 @@ O PyStock é um Programa de Gerenciamento de Estoque desenvolvido em Python, uti
 
 - **Gerenciamento de Produtos:** Permite o registro, edição, exclusão e geração de saída de produtos, facilitando o controle de estoque.
 
-- **Relatórios e Gráficos:** Oferece a criação de relatórios e gráficos em formato Excel, relacionando o estoque com as saídas de produtos. Isso fornece insights valiosos para a tomada de decisões estratégicas.
+- **Relatórios e Gráficos:** Oferece a criação de relatórios e gráficos em formato de planilhas Excel (xslx), relacionando o estoque com as saídas de produtos. Isso fornece insights valiosos para a tomada de decisões estratégicas.
 
 ## Tecnologias Utilizadas 👨‍💻
 
