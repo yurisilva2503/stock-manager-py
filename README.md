@@ -29,10 +29,4 @@ O PyStock é um Programa de Gerenciamento de Estoque desenvolvido em Python, uti
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor novas funcionalidades ou realizar melhorias no código.
 
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
-
 **Nota:** Certifique-se de ter o Python instalado em seu ambiente antes de executar o programa.
